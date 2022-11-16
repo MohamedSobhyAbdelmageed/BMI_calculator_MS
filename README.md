@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-
-# BMI Calculator 💪
+# BMI Calculator 💪 By Mohamed Sobhy
 
 ## Our Goal
 
@@ -28,4 +26,3 @@ It will be a multi screen app with simple functionality but full-on custom styli
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
